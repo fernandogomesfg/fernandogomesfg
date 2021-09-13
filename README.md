@@ -29,7 +29,8 @@
 </p>
  
  ##
- ![Snake animation](https://github.com/Fernando-Gomes-FG/Fernando-Gomes-FG/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Fernando-Gomes-FG/Fernando-Gomes-FG/blob/main/.github/workflows/cobrinha.yml)
+ 
  
 
 
