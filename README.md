@@ -11,8 +11,8 @@
  ## Contact :iphone:
 
 <p align="center">
-    <a href="https://github.com/Fernando-Gomes-FG">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/Fernando-Gomes-FG">
+    <a href="https://github.com/fernandogomesfg">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/fernandogomesfg">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:fernandogomesbernardo@gmail.com">
