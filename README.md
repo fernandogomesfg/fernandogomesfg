@@ -22,7 +22,7 @@
     <a href="https://www.linkedin.com/in/fernando-gomes-41a042188">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/fernando-gomes-41a042188/">
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     <a href="https://www.instagram.com/fernando_gomes_fg0/" target="_blank">
+     <a href="https://www.instagram.com/fernandogomesfg0/" target="_blank">
       <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
      </a>
    
