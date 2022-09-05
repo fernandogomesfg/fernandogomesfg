@@ -25,6 +25,10 @@
      <a href="https://www.instagram.com/fernandogomesfg0/" target="_blank">
       <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
      </a>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <a href="https://fernandogomesfg.github.io/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white" target="_blank">
+     </a>
    
 </p>
  
