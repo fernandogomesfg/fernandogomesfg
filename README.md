@@ -32,6 +32,10 @@
    
 </p>
  
+ **Visitors Count**
+
+![VisitorCount](https://profile-counter.glitch.me/{fernandogomesfg}/count.svg)
+ 
 
  
 
