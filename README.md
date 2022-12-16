@@ -6,31 +6,38 @@
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandogomesfg&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
- 
- ## Contact :iphone:
+ <div  align="center">
+  <div style="display: inline_block"><br>
+    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <h1 align="center">Tecnologias que mais utilizo</h1>
+    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+   </div>
 
-<p align="center">
-    <a href="https://github.com/fernandogomesfg">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/fernandogomesfg">
+  <h1 align="center">Contacto</h1>
+    <a href = "mailto:fernandogomesbernardo@gmail.com" target="_blank">
+      <img width="30" src="gmail.svg">
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:fernandogomesbernardo@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:fernandogomesbernardo@gmail.com">
+    <a href = "https://www.linkedin.com/in/fernando-gomes-41a042188" target="_blank">
+      <img width="25" src="linkedin.svg">
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/fernando-gomes-41a042188">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/fernando-gomes-41a042188/">
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     <a href="https://www.instagram.com/fernandogomesfg0/" target="_blank">
-      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-     </a>
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     <a href="https://fernandogomesfg.github.io/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white" target="_blank">
-     </a>
-   
-</p>
+    <a href = "https://www.instagram.com/fernandogomesfg0/" target="_blank">
+      <img width="25" src="instagram.png">
+    </a>
+   <a href = "https://twitter.com/fernandogomes_f" target="_blank">
+      <img width="25" src="twitter.svg">
+    </a>
+   <a href="https://github.com/fernandogomesfg" target="_blank">
+     <img width="25"  src="github.svg">
+    </a>
+</div>
+ 
+
+ 
+
  
  
 
