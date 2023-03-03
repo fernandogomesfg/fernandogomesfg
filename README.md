@@ -32,9 +32,6 @@
     <a href = "https://www.instagram.com/fernandogomesfg0/" target="_blank">
       <img width="25" src="instagram.png">
     </a>
-   <a href = "https://twitter.com/fernandogomes_f" target="_blank">
-      <img width="25" src="twitter.svg">
-    </a>
    <a href="https://github.com/fernandogomesfg" target="_blank">
      <img width="25"  src="github.svg">
     </a>
