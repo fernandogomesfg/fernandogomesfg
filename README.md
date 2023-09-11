@@ -1,11 +1,21 @@
 ### Olá!!! Eu sou Fernando Gomes 👋
-
+<!--
  <div>
   <a href="https://github.com/fernandogomesfg/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandogomesfg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandogomesfg&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<!--   -->
+   -->
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fernandogomesfg&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=fernandogomesfg&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fernandogomesfg&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fernandogomesfg&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fernandogomesfg&theme=nord_dark) |
+| :-: | :-: | :-: |
+
+
+
+
  
  <div  align="center">
   <div style="display: inline_block"><br>
@@ -17,6 +27,7 @@
     <img align="center" height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" height="30" width="40" alt="git-icon" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
     <img align="center" height="30" width="40" alt="mysql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+   <img align="center" height="30" width="40" alt="postgresql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/> </a>
    <!-- <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
    <!-- <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> -->
     
@@ -35,6 +46,12 @@
 </div>
  
 </div>
+<br><br>
+<div style="text-align: right;">
+<a href="https://www.buymeacoffee.com/fernandogomes"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fernandogomes" /></a>
+</div>
+
+
  
 
  
