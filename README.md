@@ -18,6 +18,8 @@
 
 [![Fernando Gomes's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fernandogomesfg&bg_color=2E3440&color=ECEFF4&line=6474B9&point=88C0D0&area=true&hide_border=false)](https://github.com/fernandogomesfg)
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=fernandogomesfg&data=followers,repositories,stars,commits&theme=nautilus)](https://fernandogomesfg.github.io/)
+
 </div>
  
  <div  align="center">
